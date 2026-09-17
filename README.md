@@ -1,5 +1,8 @@
-## Hi there 👋
-
+مرحباً، أنا ساجدة عبد المنعم السعود 👋
+🎓 خريجة هندسة معلوماتية Front-end Developer
+المهارات: HTML, CSS, JavaScript, React, Flutter
+ أتعلّم حالياً: JavaScript متقدّم وReact
+ 🔗 LinkedIn: linkedin.com/in/sajeda-alsaud-831768309 📧 sajedaalsoad18@gmail.com
 <!--
 **sajedaalsoad/sajedaalsoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
